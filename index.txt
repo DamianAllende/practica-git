@@ -5,3 +5,6 @@ Segunda lineaque se agrega  al documento
 tercer commit ya con repositorio remoto modificamos esta linea
 
 4to cambio en el documento 
+tercer commit ya con repositorio remoto
+
+Cuarta linea pero desde otra maquina 
